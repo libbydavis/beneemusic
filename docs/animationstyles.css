@@ -99,3 +99,6 @@ a {
   font-family: 'Prompt', sans-serif;
   font-size: 18pt;
 }
+.abouttext:hover {
+  color:#3119b9;
+}
