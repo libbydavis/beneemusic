@@ -102,3 +102,9 @@ a {
 .abouttext:hover {
   color:#3119b9;
 }
+
+@media only screen and (max-width:800px){
+  .blockbackground {
+    width:100%;
+  }
+}
